@@ -22,7 +22,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^17.2.3",
-    "hono": "^4.5.0",
+    "hono": "^4.12.16",
     "ponder": "^0.15.7",
     "viem": "^2.21.3",
     "zod": "^3.25.76"
